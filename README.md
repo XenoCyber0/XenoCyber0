@@ -1,18 +1,19 @@
-# XenoCyber0 — Security · Systems · AI Automation
+# XenoCyber0 â€” Security Â· Systems Â· AI Automation
 
 Self-hosted security tools & AI agents. C/C++ for systems, TypeScript for full-stack, Linux/Windows, networking.
 
 ### ?? Stack
 `C` `C++` `TypeScript` `JavaScript` `Next.js` `Node.js` `Prisma` `PostgreSQL` `Docker` `Linux` `Networking`
-> Polyglot — repos in multiple languages. Not limited to one stack.
+> Polyglot â€” repos in multiple languages. Not limited to one stack.
 
 ### ?? Featured
-- **[LogSentinel](https://github.com/XenoCyber0/LogSentinel)** — Self-hosted AI log forensics (Next.js, Prisma, BYOK) — paste nginx/auth/syslog ? threat report
-- **[Breach-Checker](https://github.com/XenoCyber0/Breach-Checker)** — C + libcurl + OpenSSL, k-anonymity HIBP checker
-- **[SysManager](https://github.com/XenoCyber0/SysManager)** — C++20/Qt6 cross-platform system monitor
+- **[LogSentinel](https://github.com/XenoCyber0/LogSentinel)** â€” Self-hosted AI log forensics (Next.js, Prisma, BYOK) â€” paste nginx/auth/syslog ? threat report
+- **[Breach-Checker](https://github.com/XenoCyber0/Breach-Checker)** â€” C + libcurl + OpenSSL, k-anonymity HIBP checker
+- **[SysManager](https://github.com/XenoCyber0/SysManager)** â€” C++20/Qt6 cross-platform system monitor
+- **[call-anything](https://github.com/XenoCyber0/call-anything)** â€” Corpus of verified MCP tool invocations + harness that proves them (Python, stdlib only)
 
 ### ??? What I build
-Security tooling · log analysis · system utilities · self-hosted AI agents (omniroute/opencode) · automation for homelabs/SMBs
+Security tooling Â· log analysis Â· system utilities Â· self-hosted AI agents (omniroute/opencode) Â· automation for homelabs/SMBs
 
 ### ?? Available for
 Freelance: Security tools, C/C++ fixes, Linux automation, AI agent setup
