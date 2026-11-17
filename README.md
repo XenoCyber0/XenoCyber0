@@ -7,13 +7,15 @@ Self-hosted security tools & AI agents. C/C++ for systems, TypeScript for full-s
 > Polyglot — repos in multiple languages. Not limited to one stack.
 
 ### ?? Featured
+
+- **[mcp-purple-lab](https://github.com/XenoCyber0/mcp-purple-lab)** — Purple-team range for MCP: attack → trace → detection → **proof** (line-numbered evidence, CI-gated exit codes). Python, stdlib + PyYAML only, zero network I/O. **3/3 attacks detected.**
 - **[LogSentinel](https://github.com/XenoCyber0/LogSentinel)** — Self-hosted AI log forensics (Next.js, Prisma, BYOK) — paste nginx/auth/syslog ? threat report
 - **[Breach-Checker](https://github.com/XenoCyber0/Breach-Checker)** — C + libcurl + OpenSSL, k-anonymity HIBP checker
 - **[SysManager](https://github.com/XenoCyber0/SysManager)** — C++20/Qt6 cross-platform system monitor
 - **[call-anything](https://github.com/XenoCyber0/call-anything)** — Corpus of verified MCP tool invocations + harness that proves them (Python, stdlib only)
 
 ### ??? What I build
-Security tooling · log analysis · system utilities · self-hosted AI agents (omniroute/opencode) · automation for homelabs/SMBs
+Security tooling · MCP purple-team detection · log analysis · system utilities · self-hosted AI agents (omniroute/opencode) · automation for homelabs/SMBs
 
 ### ?? Available for
 Freelance: Security tools, C/C++ fixes, Linux automation, AI agent setup
