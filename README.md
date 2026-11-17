@@ -15,7 +15,7 @@ Self-hosted security tools & AI agents. C/C++ for systems, TypeScript for full-s
 - **[call-anything](https://github.com/XenoCyber0/call-anything)** — Corpus of verified MCP tool invocations + harness that proves them (Python, stdlib only)
 
 ### ??? What I build
-Security tooling · MCP purple-team detection · log analysis · system utilities · self-hosted AI agents (omniroute/opencode) · automation for homelabs/SMBs
+Security tooling · MCP purple-team detection · log analysis · system utilities · self-hosted AI agents · automation for homelabs/SMBs
 
 ### ?? Available for
 Freelance: Security tools, C/C++ fixes, Linux automation, AI agent setup
